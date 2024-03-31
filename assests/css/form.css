@@ -1,0 +1,45 @@
+h1 { color: #c8c0e0;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 50px;}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #674c5d; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+}
+  
+textarea{
+  height:200px;
+}
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #16ec9d;
+    color: rgb(135, 99, 161);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #f3edea;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: #6e4d5a;
+    padding: 20px;
+  }
+
+  label {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:bisque;
+    font-size: 20px;
+  }
