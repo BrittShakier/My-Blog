@@ -7,7 +7,8 @@ I created this blog fpr peopel to express what is on their minds. They will ente
 <img width="935" alt="blog post" src="https://github.com/BrittShakier/My-Blog/assets/159391747/c9502859-119e-478a-82c8-15fea02d9469">
 
 
-link
+Link:https://brittshakier.github.io/My-Blog/
+
 
 ## Credits 
 N/A
