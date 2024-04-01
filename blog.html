@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,18 +20,21 @@
 
   <div class="container light" id="theme-switcher">
 
-    <h1> Check Out These Cool Post</h1>
+    
+    <div id="data-container">
+      <h1> Check Out These Cool Post</h1>
+      <p> User Name: <span id="saved-name"></span> </p>
+      <p> Title: <span id="saved-title"></span> </p>
+      <p> Comment: <span id="saved-content"></span></p>
+    </div>
 
 
-    <!-- <script>
-const urlParams = blogPost(window.location.search);
-const userName = saveBlogPost.get('username');
-document.getElementById('username').textContent = userName;
-</script> -->
+   
   </div>
 
 </body>
 <script src="assests/js/blog.js"></script>
+<script src="assests/js/logic.js"></script>
 
 <footer>
   <p> <a href="https://brittshakier.github.io/My-Portfolio/"> Brittany's Portfolio </p>
