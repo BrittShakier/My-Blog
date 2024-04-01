@@ -24,7 +24,5 @@ renderMessage();
 
 
 
-// const urlParams = saveBlogPost(window.location.search);
-// const userName = saveBlogPost.get('username');
-// document.getElementById('username').textContent = userName;
+
 
